@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "fullUrl": "https://raw.githubusercontent.com/yaazhilabs/sportstoks-data/main/data/players.json.gz",
-  "fullSizeBytes": 83664225,
+  "fullSizeBytes": 83658110,
   "deltas": [
     {
       "fromVersion": 3,
