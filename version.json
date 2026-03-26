@@ -2,5 +2,12 @@
   "version": 5,
   "fullUrl": "https://raw.githubusercontent.com/yaazhilabs/sportstoks-data/main/data/players.json.gz",
   "fullSizeBytes": 83664225,
-  "deltas": []
+  "deltas": [
+    {
+      "fromVersion": 3,
+      "toVersion": 5,
+      "url": "https://raw.githubusercontent.com/yaazhilabs/sportstoks-data/main/data/deltas/delta_v3_to_v5.json.gz",
+      "sizeBytes": 30134797
+    }
+  ]
 }
