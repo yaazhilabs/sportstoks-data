@@ -1,6 +1,13 @@
 {
-  "version": 23,
+  "version": 24,
   "fullUrl": "https://github.com/yaazhilabs/sportstoks-data/releases/download/v23/players.json.gz",
-  "fullSizeBytes": 79985268,
-  "deltas": []
+  "fullSizeBytes": 75034298,
+  "deltas": [
+    {
+      "fromVersion": 23,
+      "toVersion": 24,
+      "url": "https://raw.githubusercontent.com/yaazhilabs/sportstoks-data/main/data/deltas/v23_to_v24.json.gz",
+      "sizeBytes": 88135900
+    }
+  ]
 }
