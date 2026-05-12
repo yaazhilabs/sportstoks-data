@@ -1,6 +1,6 @@
 {
-  "version": 26,
-  "manifestUrl": "https://github.com/yaazhilabs/sportstoks-data/releases/download/v26/manifest.json",
+  "version": 27,
+  "manifestUrl": "https://github.com/yaazhilabs/sportstoks-data/releases/download/v27/manifest.json",
   "downloadStrategy": "chunked",
-  "notes": "v26: rarity re-classified with national-team enrichment, country-alias normalization, and Olympic/World-Cup fun-fact gate. Top10k = 9,283 (554 LEGENDARY + 8,729 RARE). Domestic-only players (e.g. Arjun Tendulkar) correctly excluded; famous athletes (LeBron, Phelps, Sachin, Tiger, Serena, Ronaldo, Messi) all LEGENDARY."
+  "notes": "v27: country-award promotion (Bharat Ratna / Knighthood / Presidential Medal / etc), dominant-in-sport rule (top 10 per sport bypasses intl gate), 26 stale photo URLs refreshed, 368 LEGENDARY enriched with 2-5 photos, 8,725 RARE enriched with multi-images, non-athlete placeholder filter. LEGENDARY: 1,842 (3.3x v26)."
 }
