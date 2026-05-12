@@ -1,6 +1,6 @@
 {
-  "version": 27,
-  "manifestUrl": "https://github.com/yaazhilabs/sportstoks-data/releases/download/v27/manifest.json",
+  "version": 28,
+  "manifestUrl": "https://github.com/yaazhilabs/sportstoks-data/releases/download/v28/manifest.json",
   "downloadStrategy": "chunked",
-  "notes": "v27: country-award promotion (Bharat Ratna / Knighthood / Presidential Medal / etc), dominant-in-sport rule (top 10 per sport bypasses intl gate), 26 stale photo URLs refreshed, 368 LEGENDARY enriched with 2-5 photos, 8,725 RARE enriched with multi-images, non-athlete placeholder filter. LEGENDARY: 1,842 (3.3x v26)."
+  "notes": "v28: sport-keyed shards (107 sports). InterestEngine scores now match manifest shard keys, enabling true interest-driven downloads (CRICKET, F1, etc.). Plus enriched signal types (Flip + VideoPlayed weights) and 10-swipe prefetch trigger."
 }
